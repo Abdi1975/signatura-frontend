@@ -68,4 +68,4 @@ Frontend ini digunakan oleh:
 - **JavaScript**
 - **React JS**
 - **FontAwesome**
-- **Chart.js** (jika digunakan untuk visualisasi)
+- **Chart.js**
